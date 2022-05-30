@@ -19,7 +19,7 @@
 // answers[1] = prompt("Назовите Вашу фамилию", "");
 // answers[2] = prompt("Назовите Ваш возраст", "");
 
-// git 
+
 
 const numberOfFilms = +prompt("Сколько фильмов Вы уже посмотрели", "");
  
