@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7e95e33-d6f0-4bce-832e-3e184ae40cee" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app-filter/app-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app-filter/app-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app-info/app-info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app-info/app-info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/employers-add-form/employers-add-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/employers-list /employers-list .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/employers-list-item /employers-list-item .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/search-panel/search-panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react study/my-app/src/components/search-panel/search-panel.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E1FMUmnpcRt5bcnCkSHG1KHvf2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anymacstore/Desktop/JS/react/my-app/my-app/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-app/my-app/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e95e33-d6f0-4bce-832e-3e184ae40cee" name="Changes" comment="" />
+      <created>1661755136254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661755136254</updated>
+      <workItem from="1661755137777" duration="2210000" />
+      <workItem from="1661757672025" duration="17408000" />
+      <workItem from="1661791035031" duration="1461000" />
+      <workItem from="1661799781906" duration="22727000" />
+      <workItem from="1663010732205" duration="1029000" />
+      <workItem from="1663011905227" duration="90000" />
+      <workItem from="1663012014565" duration="2565000" />
+      <workItem from="1663595965970" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1661788526931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661788526931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
