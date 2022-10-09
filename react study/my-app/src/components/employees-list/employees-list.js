@@ -4,7 +4,7 @@ import './employees-list.css';
 const EmployeesList = ({data, onDelete, onToggleProp}) => {
 
     const elements = data.map(item => {
-        const {id, ...itemProps} = item;
+        const {id, ...itemProps} = item
         return (
             <EmployeesListItem
                 key={id}
@@ -20,5 +20,6 @@ const EmployeesList = ({data, onDelete, onToggleProp}) => {
         </ul>
     )
 }
+
 
 export default EmployeesList;
